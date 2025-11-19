@@ -15,9 +15,10 @@ Aspiring Data Scientist с инженерным бэкграундом и сил
 # Осваиваю стек современных технологий:
 ds_stack = {
     'data_analysis': ['Pandas', 'NumPy', 'SQL'],
-    'machine_learning': ['Scikit-learn', 'XGBoost'],
+    'machine_learning': ['Scikit-learn', 'CatBoost'],
     'visualization': ['Matplotlib', 'Seaborn', 'Plotly'],
     'tools': ['Jupyter', 'Git', 'VS Code']
+    'deep_learning' : ['PyTorch']
 }
 ```
 
@@ -41,6 +42,7 @@ ds_stack = {
 - Основы машинного обучения и статистики
 - Анализ данных и визуализация
 - Python для Data Science
+- Практикум по статистике на Python
 
 ## 🏆 Вне профессиональной деятельности
 
@@ -51,9 +53,9 @@ ds_stack = {
 ## 📈 Карьерные цели
 
 Ищу возможность начать карьеру в Data Science как:
-- Junior Data Analyst
-- Data Science Intern  
-- Machine Learning Trainee
+- Data Analyst
+- Data Scientist
+- ML - engineer
 
 Готов к сложным задачам, быстрому обучению и полной отдаче.
 
