@@ -1,68 +1,16 @@
-# 👋 Привет, я Дмитрий
+# 👋 Dmitry Bertnikov
 
-*Product / Data Analyst с ML-бэкграундом • Москва, Россия*  
-
-[Telegram](https://t.me/bertnyak) • [Email](mailto:dmitrybertnikov@gmail.com)
-
----
-
-## 🚀 Кто я
-
-Аналитик данных с инженерным образованием и опытом построения end-to-end проектов: от EDA и продуктовых метрик до ML‑моделей и бизнес-выводов.  
-Сейчас фокусируюсь на продуктовой аналитике: воронки, конверсия, retention, A/B‑тесты и принятие решений на основе данных.
+💻 Data Scientist / ML Engineer  
+🛠️ Tech stack: Python | SQL | Scikit-learn | CatBoost | Pandas  
+📊 Focus: classification, regression, feature engineering, end-to-end ML solutions  
+🧠 Background: Engineering degree + self‑taught in Data Science  
+🏋️ Outside of code: gym, family, clear metrics and working solutions  
 
 ---
 
-## 🧰 Стек и навыки
+**Contact:**  
+📧 dmitrybertnikov@gmail.com  
 
-### 🔎 Аналитика и данные
 
-- Python: `pandas`, `NumPy`, `SciPy`  
-- SQL: агрегаты, `JOIN`, оконные функции (`OVER / PARTITION BY`)  
-- Визуализация и дашборды: `Matplotlib`, `Seaborn`, `Plotly`, отчёты в Jupyter
-
-### 🤖 ML и моделирование
-
-- Классическое ML: `scikit-learn`, `CatBoost`  
-- Оптимизация: `Optuna`, кросс‑валидация, подбор порога  
-- Метрики: ROC‑AUC, PR‑AUC, precision / recall, F1, бизнес‑KPI
-
-### 🛠 Инструменты
-
-- Jupyter Notebook, Git/GitHub, Linux, VS Code  
-- Работа с данными из CSV и SQL, оформление аналитических проектов и README
-
----
-
-## 📂 Ключевые проекты
-
-- **Amazon Product Success Predictor** — отбор потенциальных бестселлеров, продуктовые метрики и ML‑модель для повышения эффективности маркетинга.  
-- **Credit Risk Scoring** — скоринговая модель с упором на бизнес‑эффект и ROI.  
-- **NASA Meteorites Analytics** — исследовательская аналитика и визуализация геоданных.
-
-(Эти репозитории стоит закрепить в GitHub как *Pinned Repositories*.)
-
----
-
-## 🎓 Образование и путь в данные
-
-- Инженерное образование: сильная математика, системное мышление и работа со сложными техническими системами.  
-- Самостоятельное обучение Data Science и продуктовой аналитике: курсы, pet‑проекты, регулярная практика SQL и продуктовых метрик.
-
----
-
-## 🎯 Карьерные цели
-
-Ищу роль **Product / Data Analyst** (или Data Scientist с фокусом на аналитике), где можно:
-
-- строить метрики продукта и дашборды;  
-- формулировать и проверять гипотезы (включая A/B‑тесты);  
-- применять ML там, где это даёт измеримый бизнес‑результат.
-
----
-
-## 🤝 Контакты
-
-- Telegram: [@bertnyak](https://t.me/bertnyak)  
-- Email: [dmitrybertnikov@gmail.com](mailto:dmitrybertnikov@gmail.com)  
-- Локация: Москва, Россия
+*Здесь я выкладываю проекты, эксперименты и мысли о данных.  
+Всё просто и по делу.*
